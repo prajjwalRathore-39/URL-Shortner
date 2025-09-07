@@ -8,6 +8,7 @@ public class UrlShortnerSbApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UrlShortnerSbApplication.class, args);
+        System.out.println("URL Shortner is Running!!");
 	}
 
 }
