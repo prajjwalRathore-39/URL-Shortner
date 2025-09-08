@@ -1,6 +1,6 @@
 package com.url.url_shortner_sb.models;
 
-
+// Custom Version of the User that we have in our Application
 import jakarta.persistence.*;
 import lombok.Data;
 
